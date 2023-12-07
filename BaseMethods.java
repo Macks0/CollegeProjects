@@ -16,7 +16,7 @@ public class BaseMethods {
 	
 	public void loginEServices(WebDriver x) {
 		x.findElement(userName).sendKeys("kg8051on");
-		x.findElement(password).sendKeys("Wakeboard6!!!");
+		x.findElement(password).sendKeys("DewEnergy1137!");
 		x.findElement(loginButton).click();
 	}
 	
